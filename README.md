@@ -34,3 +34,7 @@
 
 - git push -u origin main (apenas no primeiro envio)
 - git push (para os demais enviosse )
+
+## Atualizar do Github
+
+- git pull
